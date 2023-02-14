@@ -18,7 +18,7 @@ This app works in conjunction with [QT_Passengers App](https://github.com/Lettic
 - Connect both the QT_Driver and QT_Passengers app to the same Firebase project.
 
 ## Team:
-- [Myself](https://github.com/Letticonion)
+- [Akhand-Pratap-Tiwari (Myself)](https://github.com/Akhand-Pratap-Tiwari)
 - [Abdev1205](https://github.com/Abdev1205)
 - [divyanshbhilware](https://github.com/divyanshbhilware)
 - [siddhi-rai](https://github.com/siddhi-rai)

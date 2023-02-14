@@ -3,7 +3,7 @@
 # QT_Driver Instructions to Run
 
 This app is made as a Project Exhibition work by the students of VIT Bhopal University.
-This app works in conjunction with [QT_Passengers App](link). To run this project follow these steps:
+This app works in conjunction with [QT_Passengers App](https://github.com/Letticonion/QT_Passenger/). To run this project follow these steps:
 
 - Create a new Flutter empty project and then copy the files in the root directory.
 - Run flutter pub get.

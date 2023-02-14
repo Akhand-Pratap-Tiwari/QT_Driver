@@ -22,7 +22,7 @@ This app works in conjunction with [QT_Passengers App](https://github.com/Lettic
 - [Abdev1205](https://github.com/Abdev1205)
 - [divyanshbhilware](https://github.com/divyanshbhilware)
 - [siddhi-rai](https://github.com/siddhi-rai)
-- Anupam Dev Burman 
+- [AnupamDB](https://github.com/AnupamDB) 
 
 ## Links
 - https://firebase.google.com/docs/
